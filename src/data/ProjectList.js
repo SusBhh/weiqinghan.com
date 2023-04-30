@@ -13,5 +13,11 @@ export const ProjectList = [
         image: proj2,
         skills: "Java",
         github: "https://github.com/SusBhh/COP4020-Projects"
+    },
+    {
+        name: "Energy Eye",
+        image: proj2,
+        skills: "JavaScript, HTML, and CSS",
+        github: "https://www.myenergyeye.com"
     }
 ]

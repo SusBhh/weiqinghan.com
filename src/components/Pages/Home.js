@@ -4,6 +4,13 @@ import GitHubIcon from '@mui/icons-material/GitHub'
 import EmailIcon from '@mui/icons-material/Email'
 import './Home.css'
 
+/*color codes:
+  #8dc9fe
+  #79b3f7
+  #5282ba
+  #2a4987
+*/
+
 const Home = () => {
   return (
     <div className="home">
@@ -23,7 +30,7 @@ const Home = () => {
         <ol className="list">
           <li className="item">
             <h2>Languages</h2>
-            <span>Java, C++, Python, JavaScript, HTML, Go, SQL</span>
+            <span>Java, C++, Python, R, JavaScript, CSS</span>
           </li>
           <li className="item">
             <h2>Technology</h2>

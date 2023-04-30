@@ -3,8 +3,9 @@ import './App.css';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Home from './components/Pages/Home';
-import Experiences from './components/Pages/Experiences';
 import Projects from './components/Pages/Projects';
+import Experiences from './components/Pages/Experiences';
+import Memory from './components/Pages/Memory';
 import Footer from './components/Footer';
 import DisplayProject from './components/Pages/DisplayProject';
 
@@ -16,7 +17,8 @@ function App() {
         <Routes>
           <Route path="/" element={<Home/>}></Route>
           <Route path="/projects" element={<Projects/>}></Route>
-          <Route path="/experience" element={<Experiences/>}></Route>
+          <Route path="/experience" element={<Experiences />}></Route>
+          <Route path="/memory" element={<Memory />}></Route>
           <Route path="/displayproject/:id" element={<DisplayProject/>}></Route>
         </Routes>
         <Footer/>
