@@ -20,9 +20,6 @@ const Eyes = () => {
       senderName: "Eve"
     }
   ]
-   
-
-
   return (
     <div className = "Eyes">
       <h1>Angel in Others' Eyes</h1>
@@ -30,7 +27,6 @@ const Eyes = () => {
         <Spotify className="item" link="https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl?si=mTiITmlHQpaGkoivGTv8Jw" />
       </div>
 
-    
     <ChatFeed
       messages={allMessage}
       showSenderName
@@ -47,9 +43,7 @@ const Eyes = () => {
         }
       }
     >
-
     </ChatFeed>
-    
     </div>
   )
 }
