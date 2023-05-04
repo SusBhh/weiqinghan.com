@@ -7,7 +7,7 @@
 
 .about {
   width: 100%;
-  height: calc(100vh - 100px);
+  height: calc(100vh - 50px);
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -22,25 +22,27 @@
 .about h2 {
   width: 60%;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 8vw;
+  font-size: 7vw;
   color: #8dc9fe;
   height: 10%;
 }
 
 .about .prompt {
   width: 60%;
-  font-size: 3vw;
+  font-size: 2vw;
   height: 90%;
+  padding-top: 3%;
+  margin-top: 2vw;
 }
 
 .prompt svg {
-  font-size: 6vw;
+  font-size: 4vw;
   margin: 5px;
   color: white;
 }
 
 .skills {
-  font-size: 5vw;
+  font-size: 3vw;
   width: 100%;
   display: flex;
   justify-content: center;
