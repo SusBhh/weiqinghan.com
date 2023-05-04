@@ -2,7 +2,6 @@ import React from 'react'
 import LinkedInIcon from '@mui/icons-material/LinkedIn'
 import GitHubIcon from '@mui/icons-material/GitHub'
 import EmailIcon from '@mui/icons-material/Email'
-import Spotify from '../Spotify';
 
 import './Home.css'
 
@@ -47,9 +46,6 @@ const Home = () => {
               Engineering, Introduction to Database, Operating Systems, Programming Language Concept</span>
           </li>
         </ol>
-      </div>
-      <div className="spotify">
-        <Spotify className="item" link="https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl?si=mTiITmlHQpaGkoivGTv8Jw" />
       </div>
     </div>
 
