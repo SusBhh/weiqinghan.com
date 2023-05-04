@@ -83,4 +83,12 @@
   .skills h2 {
     font-size: 30px;
   }
+
+  .spotify {
+    align-items: center;
+  }
+
+  .spotify .item {
+    align-self: center;
+  }
 }

@@ -2,11 +2,13 @@ import React from 'react'
 import LinkedInIcon from '@mui/icons-material/LinkedIn'
 import GitHubIcon from '@mui/icons-material/GitHub'
 import EmailIcon from '@mui/icons-material/Email'
+import Spotify from '../Spotify';
+
 import './Home.css'
 
 /*color codes:
   #8dc9fe
-  #79b3f7
+  #8dc9fe
   #5282ba
   #2a4987
 */
@@ -15,8 +17,11 @@ const Home = () => {
   return (
     <div className="home">
       <div className="about">
-        <h2>Hi, My Name is Weiqing Han</h2>
+        <h2>Hi, My Name is Weiqing Han~</h2>
         <div className="prompt">
+          <h3>
+            Please feel free to call me Angel!
+          </h3>
           <p>
             A UF New Grad @BofA with a passion for software development and anything in tech.
           </p>
@@ -38,12 +43,14 @@ const Home = () => {
           </li>
           <li className="item">
             <h2>Coursework</h2>
-            <span>Data Structures and Algorithms, Introduction to Computer Organization, Introduction to Software
-              Engineering, Operating Systems, Introduction to Database</span>
+            <span>Data Structures and Algorithms, Introduction to Computer Organization, Applied ML, Introduction to Software
+              Engineering, Introduction to Database, Operating Systems, Programming Language Concept</span>
           </li>
         </ol>
       </div>
-
+      <div className="spotify">
+        <Spotify className="item" link="https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl?si=mTiITmlHQpaGkoivGTv8Jw" />
+      </div>
     </div>
 
   )

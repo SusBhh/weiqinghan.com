@@ -2,7 +2,7 @@ import React, {useState} from 'react'
 import { Link } from 'react-router-dom'
 import "./Navbar.css"
 
-
+//TODO: make this flot
 const Navbar = () => {
 
   return (
@@ -12,7 +12,8 @@ const Navbar = () => {
           <Link to="/">Home</Link>
           <Link to="/projects">Projects</Link>
           <Link to="/experience">Experience</Link>
-          <Link to="/memory">UF Memorybook</Link>
+          <Link to="/eyes">Angel</Link>
+          <Link to="/memory">Memorybook</Link>
         </div>
     </div>
   )
