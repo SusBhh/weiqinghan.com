@@ -7,7 +7,6 @@ import "react-vertical-timeline-component/style.min.css";
 import SchoolIcon from '@mui/icons-material/School';
 import WorkIcon from '@mui/icons-material/Work';
 import PeopleIcon from '@mui/icons-material/People';
-import './Experiences.css'
 
 const Experiences = () => {
   return (
