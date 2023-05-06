@@ -7,7 +7,7 @@ import { photos } from "../../data/photos";
 const Memory = () => {
   return (
     <div className="memory">
-      <Gallery photos={photos} direction={"column"}> </Gallery>
+      <Gallery photos={photos} direction={"column"} columns={4}> </Gallery>
     </div>
   )
 }

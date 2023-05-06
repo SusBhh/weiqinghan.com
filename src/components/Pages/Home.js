@@ -34,16 +34,16 @@ const Home = () => {
         <ol className="list">
           <li className="item">
             <h2>Languages</h2>
-            <span>Java, C++, Python, R, JavaScript, CSS</span>
+            <span>Java, C++, Python, R, JavaScript, CSS, TypeScript</span>
           </li>
           <li className="item">
             <h2>Technology</h2>
-            <span>Ruby on Rails, Node.js, React, React Native, Bootstrap, PostgreSQL, MySQL</span>
+            <span>Expo Go, React, React Native, MySQL, Microsoft, Adobe Premiere Pro</span>
           </li>
           <li className="item">
             <h2>Coursework</h2>
             <span>Data Structures and Algorithms, Introduction to Computer Organization, Applied ML, Introduction to Software
-              Engineering, Introduction to Database, Operating Systems, Programming Language Concept</span>
+              Engineering, Introduction to Database, Operating Systems, Programming Language Concept, Regression Analysis</span>
           </li>
         </ol>
       </div>
