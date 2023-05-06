@@ -16,12 +16,12 @@ function App() {
       <Router>
         <Navbar/>
         <Routes>
-          <Route path="/" element={<Home/>}></Route>
-          <Route path="/projects" element={<Projects/>}></Route>
-          <Route path="/experience" element={<Experiences />}></Route>
-          <Route path="/eyes" element={<Eyes />}></Route>
-          <Route path="/memory" element={<Memory />}></Route>
-          <Route path="/displayproject/:id" element={<DisplayProject/>}></Route>
+          <Route path="/weiqinghan.com" element={<Home/>}></Route>
+          <Route path="/weiqinghan.com/projects" element={<Projects/>}></Route>
+          <Route path="/weiqinghan.com/experience" element={<Experiences />}></Route>
+          <Route path="/weiqinghan.com/eyes" element={<Eyes />}></Route>
+          <Route path="/weiqinghan.com/memory" element={<Memory />}></Route>
+          <Route path="/weiqinghan.com/displayproject/:id" element={<DisplayProject/>}></Route>
         </Routes>
         <Footer/>
       </Router>
