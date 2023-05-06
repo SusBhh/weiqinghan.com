@@ -10,10 +10,10 @@ const Navbar = () => {
     <div className = "navbar">
         <div className = "links">
         <Link to="/weiqinghan.com">Home</Link>
-          <Link to="/projects">Projects</Link>
-          <Link to="/experience">Experience</Link>
-          <Link to="/eyes">Angel</Link>
-          <Link to="/memory">Memorybook</Link>
+        <Link to="/weiqinghan.com/projects">Projects</Link>
+        <Link to="/weiqinghan.com/experience">Experience</Link>
+        <Link to="/weiqinghan.com/eyes">Angel</Link>
+        <Link to="/weiqinghan.com/memory">Memorybook</Link>
         </div>
     </div>
   )
