@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/weiqinghan.com/static/css/main.6ed0745e.css",
-    "main.js": "/weiqinghan.com/static/js/main.eed6c6d2.js",
+    "main.js": "/weiqinghan.com/static/js/main.46c3357c.js",
     "static/js/496.cf7316a0.chunk.js": "/weiqinghan.com/static/js/496.cf7316a0.chunk.js",
     "static/media/m2.jpg": "/weiqinghan.com/static/media/m2.a87f3fa6516dad2ba0db.jpg",
     "static/media/m7.jpg": "/weiqinghan.com/static/media/m7.16dbd42345b16e07f7cd.jpg",
@@ -18,11 +18,11 @@
     "static/media/logo.svg": "/weiqinghan.com/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/weiqinghan.com/index.html",
     "main.6ed0745e.css.map": "/weiqinghan.com/static/css/main.6ed0745e.css.map",
-    "main.eed6c6d2.js.map": "/weiqinghan.com/static/js/main.eed6c6d2.js.map",
+    "main.46c3357c.js.map": "/weiqinghan.com/static/js/main.46c3357c.js.map",
     "496.cf7316a0.chunk.js.map": "/weiqinghan.com/static/js/496.cf7316a0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ed0745e.css",
-    "static/js/main.eed6c6d2.js"
+    "static/js/main.46c3357c.js"
   ]
 }
