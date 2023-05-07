@@ -15,7 +15,29 @@ import m13 from '../images/m13.jpg'
 import m14 from '../images/m14.jpg'
 import m15 from '../images/m15.jpg'
 import m16 from '../images/m16.jpg'
+import m17 from '../images/m17.jpg'
+import m18 from '../images/m18.jpg'
+import m19 from '../images/m19.jpg'
 import m20 from '../images/m20.jpg'
+import m21 from '../images/m21.jpg'
+import m22 from '../images/m22.jpg'
+import m23 from '../images/m23.jpg'
+import m24 from '../images/m24.jpg'
+import m25 from '../images/m25.jpg'
+import m26 from '../images/m26.jpg'
+import m27 from '../images/m27.jpg'
+import m28 from '../images/m28.jpg'
+import m29 from '../images/m29.jpg'
+import m30 from '../images/m30.jpg'
+import m31 from '../images/m31.jpg'
+import m32 from '../images/m32.jpg'
+import m33 from '../images/m33.jpg'
+import m34 from '../images/m34.jpg'
+import m35 from '../images/m35.jpg'
+import m36 from '../images/m36.jpg'
+import m37 from '../images/m37.jpg'
+import m38 from '../images/m38.jpg'
+import m39 from '../images/m39.jpg'
 
 export const photos = [
     {
@@ -88,8 +110,96 @@ export const photos = [
         width: 4,
         height: 3
     }, {
+        src: m17,
+        width: 5,
+        height: 3
+    }, {
+        src: m18,
+        width: 3,
+        height: 5
+    }, {
+        src: m19,
+        width: 4,
+        height: 3
+    }, {
         src: m20,
         width: 3,
         height: 4
+    }, {
+        src: m21,
+        width: 5,
+        height: 3
+    }, {
+        src: m22,
+        width: 4,
+        height: 3
+    }, {
+        src: m23,
+        width: 3,
+        height: 4
+    }, {
+        src: m24,
+        width: 3,
+        height: 4
+    }, {
+        src: m25,
+        width: 3,
+        height: 4
+    }, {
+        src: m26,
+        width: 4,
+        height: 3
+    }, {
+        src: m27,
+        width: 4,
+        height: 3
+    }, {
+        src: m28,
+        width: 3,
+        height: 5
+    }, {
+        src: m29,
+        width: 3,
+        height: 4
+    }, {
+        src: m30,
+        width: 5,
+        height: 3
+    }, {
+        src: m31,
+        width: 4,
+        height: 3
+    }, {
+        src: m32,
+        width: 5,
+        height: 3
+    }, {
+        src: m33,
+        width: 4,
+        height: 3
+    }, {
+        src: m34,
+        width: 4,
+        height: 3
+    }, {
+        src: m35,
+        width: 4,
+        height: 3
+    }, {
+        src: m36,
+        width: 4,
+        height: 3
+    }, {
+        src: m37,
+        width: 5,
+        height: 3
+    }, {
+        src: m38,
+        width: 16,
+        height: 9
+    }, {
+        src: m39,
+        width: 1,
+        height: 1
     }
 ];
