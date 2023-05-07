@@ -6,13 +6,13 @@ export const ProjectList = [
         name: "Sharing About UF",
         image: proj1,
         skills: "HTML, CSS",
-        github: "https://github.com/weiqinghan/WebDev",
+        github: "https://github.com/weiqinghan/WebDev"
     },
     {
-        name: "COP4020 (PLC) Project but private",
+        name: "Senior Project - Bank Transaction Management",
         image: proj2,
-        skills: "Java",
-        github: "https://github.com/SusBhh/COP4020-Projects"
+        skills: "React Native, TypeScript",
+        github: "https://github.com/weiqinghan"
     },
     {
         name: "Energy Eye",
